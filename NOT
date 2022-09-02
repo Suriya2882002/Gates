@@ -1,0 +1,5 @@
+module notg (A, B, Y); 
+input A; 
+output Y; 
+assign Y = ~ A ; 
+endmodule
