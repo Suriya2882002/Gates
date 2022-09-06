@@ -1,0 +1,7 @@
+module bin2gray ( B ,G );
+input [3:0] B ;
+wire [3:0] B ;
+output [3:0] G ;
+wire [3:0] G ;
+assign G[3]
+
