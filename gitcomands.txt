@@ -2,3 +2,4 @@ git init
 git add <file name>
 git commit -m "first commit" local host iruthu waiting
 git push
+aathi guru 
